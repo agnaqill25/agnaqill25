@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Creative+Visual;Frontend+Development;Branding+%26+Digital+Media;UI%2FUX+Enthusiast;Modern+Web+Experience" />
 </p>
 
----
-
 <h3 align="center">
 Creative Visual • Frontend Development • Journalism
 </h3>
@@ -50,74 +48,86 @@ Saya memiliki minat pada pengembangan visual digital, media kreatif, dan pengala
 
 ## Current Focus
 
-```txt
-Creative Visual
-Frontend Development
-Digital Branding
-Social Media Design
-Modern UI/UX
-Media Publication
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Creative%20Visual-0b0b0b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Frontend%20Development-151515?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Digital%20Branding-1565c0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Social%20Media%20Design-0b0b0b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Modern%20UI%2FUX-151515?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Media%20Publication-1565c0?style=for-the-badge"/>
+</p>
 
 ---
 
-Socials
+## Socials
 
 <p align="left">
   <a href="https://instagram.com/agnaqill25">
     <img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>  <a href="https://github.com/agnaqill25">
+  </a>
+
+  <a href="https://github.com/agnaqill25">
     <img src="https://img.shields.io/badge/GitHub-0b0b0b?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>  <a href="https://tiktok.com/@agnaqill">
+  </a>
+
+  <a href="https://tiktok.com/@agnaqill">
     <img src="https://img.shields.io/badge/TikTok-151515?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>  <a href="https://wa.me/6285133311094">
+  </a>
+
+  <a href="https://wa.me/6285133311094">
     <img src="https://img.shields.io/badge/WhatsApp-1565c0?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
----
-
-Organizations & Experiences
-
-Organization	Position
-
-PMII	Member
-Media Pers Mahasiswa Astrajingga	Head of Finance & Entrepreneurship Department
-BEM UNU Cirebon	Minister of Advocacy & Strategic Issues
-PMMBN Komisariat UNU Cirebon	Chairman
-Manhaj Digital	Founder
-
-
 
 ---
 
-Creative Interests
+## Organizations & Experiences
 
-Visual Branding
-
-Social Media Design
-
-Frontend Interface
-
-Journalism & Media
-
-Digital Publication
-
-Creative Technology
-
-
+| Organization | Position |
+|---|---|
+| PMII | Member |
+| Media Pers Mahasiswa Astrajingga | Head of Finance & Entrepreneurship Department |
+| BEM UNU Cirebon | Minister of Advocacy & Strategic Issues |
+| PMMBN Komisariat UNU Cirebon | Chairman |
+| Manhaj Digital | Founder |
 
 ---
 
-Quote
+## Creative Interests
+
+- Visual Branding
+- Frontend Interface
+- Journalism & Media
+- Digital Publication
+- Creative Technology
+- Modern User Experience
+
+---
+
+## Creative Principle
 
 > “Design is not only about visuals, but about creating meaningful digital experiences.”
 
+---
 
+## GitHub Goals 2026
 
+- Build modern frontend projects
+- Create responsive web experiences
+- Develop creative digital branding
+- Improve UI/UX understanding
+- Expand media & journalism projects
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agnaqill25&show_icons=true&theme=transparent&hide_border=true&title_color=1565c0&text_color=ffffff&icon_color=1565c0" width="49%"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agnaqill25&theme=transparent&hide_border=true&ring=1565c0&fire=1565c0&currStreakLabel=1565c0" width="49%"/>
+</p>
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b0b0b,50:151515,100:1565c0"/>
 </p>
-```
